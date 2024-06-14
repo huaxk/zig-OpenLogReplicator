@@ -1,0 +1,14 @@
+.{
+    .name = "OpenLogReplicator",
+    .version = "1.3.0",
+    .dependencies = .{
+        .rapidjson = .{
+            .url = "https://github.com/Tencent/rapidjson/archive/refs/tags/v1.1.0.tar.gz",
+            .hash = "122084f00a476f61099ac1d0723da671ac4568d49cc6021313ad75981adc17e9bad4",
+        },
+    },
+
+    .paths = .{
+        "",
+    },
+}
